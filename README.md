@@ -9,7 +9,7 @@ Add this QF token as manually into your wallet on MANTLE (MNT) Chain
 
 Contract Address = 0x88db9447DAfC94578020cFCc76FF50510d552112
 
-Verify this Contract -> [Verify QF](https://testnet.aiascan.com/token/0x88db9447DAfC94578020cFCc76FF50510d552112)
+Verify this Contract -> [Verify QF](https://explorer.sepolia.mantle.xyz/token/0x88db9447DAfC94578020cFCc76FF50510d552112)
 
 ---
 
